@@ -1,0 +1,3 @@
+export const origin = 'https://dev2.akarpov.ru/'
+export const doctorToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUuY29tIiwiZXhwIjoxNjcxNDUwNDUwfQ.-z1zP0SxBA-BYdV-YrfjO27C_n6tVdkbiF35IYoWLAE'
+export const patientToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyNkBleGFtcGxlLmNvbSIsImV4cCI6MTY3MTQzNDU1N30.-ikjYmc2KCMr-ECzn7qO5tYWf77Uw6EmF9ZNWbmEG10'

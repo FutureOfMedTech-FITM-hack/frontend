@@ -1,0 +1,17 @@
+.notification__heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.notif__time{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.notif__actions{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: start;
+}

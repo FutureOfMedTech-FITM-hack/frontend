@@ -1,0 +1,11 @@
+.title__container{
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.06);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title__spaced{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

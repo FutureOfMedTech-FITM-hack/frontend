@@ -1,0 +1,16 @@
+.doctor__blocks{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.my-diary__container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.not__blocks{
+    margin-top: 30px;
+}

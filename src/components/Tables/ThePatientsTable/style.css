@@ -1,0 +1,17 @@
+.patients__cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.patients__click{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.patients__tag{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+}

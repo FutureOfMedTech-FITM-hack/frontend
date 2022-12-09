@@ -1,0 +1,44 @@
+.header__container{
+    background-color: white;
+    box-shadow: 0px 2px 10px rgba(32, 45, 61, 0.24);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.logo__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.header__menu{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.positioned{
+    width: 1100px;
+}
+
+.doctor__menu{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.patients__content{
+    margin-top: 40px;
+}
+
+.patients__head{
+    display: flex;
+    justify-content: space-between;
+}
+.cross{
+    position: absolute;
+    right: 40px;
+    top: 20px;
+    transform: rotate(45deg);
+}

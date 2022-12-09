@@ -1,0 +1,10 @@
+.choices__question-names{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.ten-choices__container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

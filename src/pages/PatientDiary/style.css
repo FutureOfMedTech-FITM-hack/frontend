@@ -1,0 +1,19 @@
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sized_{
+    width: 1100px;
+    margin-top: 40px;
+}
+
+.diary__headings{
+    display: flex;
+    justify-content: space-between;
+}
+
+.diary__results{
+    display: flex;
+    justify-content: space-between;
+}

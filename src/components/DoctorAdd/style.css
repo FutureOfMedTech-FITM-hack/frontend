@@ -1,0 +1,10 @@
+.doctor-add__container{
+    width: 400px;
+    height: 116px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    border: 1px solid #00ABB5;
+    cursor: pointer;
+}

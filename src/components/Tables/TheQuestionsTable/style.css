@@ -1,0 +1,13 @@
+.illness__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.illness__modal{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: start;
+    align-items: start;
+}
